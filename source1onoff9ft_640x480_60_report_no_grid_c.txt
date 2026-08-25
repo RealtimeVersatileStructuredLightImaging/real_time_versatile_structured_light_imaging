@@ -1,0 +1,22 @@
+rtVSLI TEST RUN REPORT
+==================================================
+
+TEST CONDITIONS
+--------------------------------------------------
+Laser mA: n/a
+Ambient temperature: RT
+Diffuser grit: n/a
+Variable distance: 9ft
+Background distance: 11ft
+Wavelength: n/a
+Diff. full projection angle: n/a
+Variable name: heat_gun_off_on_low_1_no_grid
+Processing mode: continuous
+Date and time: 2026-08-19 21:00:56
+
+CONTINUOUS BOS RESULTS
+--------------------------------------------------
+Average pixel shift intensity: 0.9345
+Minimum pixel shift intensity: 0
+Maximum pixel shift intensity: 3
+Pixels above threshold: 0.0900%

@@ -1,0 +1,22 @@
+rtVSLI TEST RUN REPORT
+==================================================
+
+TEST CONDITIONS
+--------------------------------------------------
+Laser mA: 500
+Ambient temperature: RT
+Diffuser grit: 0.5" engineered circular
+Variable distance: 9ft
+Background distance: 11ft
+Wavelength: 520nm
+Diff. full projection angle: 20deg
+Variable name: co2_off_on_run_3
+Processing mode: continuous
+Date and time: 2026-08-24 19:26:03
+
+CONTINUOUS BOS RESULTS
+--------------------------------------------------
+Average pixel shift intensity: 1.1608
+Minimum pixel shift intensity: 0
+Maximum pixel shift intensity: 10
+Pixels above threshold: 0.4049%
